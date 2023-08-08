@@ -2,11 +2,11 @@
 
 ## Introduction
 
-This repository contains a PHP script that simulates an increasing delay in loading a webpage. The script is intended to add a touch of humor and fun to situations where customers might not be paying their developers promptly. Please note that this prank should be used in good spirits and with the consent of all parties involved. It is essential to maintain a respectful and professional environment at all times.
+This repository contains a PHP script that simulates an increasing delay in loading a webpage. The script is intended to add a touch of humor and fun to situations where customers might not be paying their developers promptly. Please note that this should be used in good spirits and with the consent of all parties involved. It is essential to maintain a respectful and professional environment at all times.
 
 ## Script Description
 
-The prank script provided in this repository will slow down the loading of a webpage as a specified date approaches. As the prank date gets closer, the webpage load time will increase, and after the prank date has passed, the delay will continue to increase further.
+The script provided in this repository will slow down the loading of a webpage as a specified date approaches. As the date gets closer, the webpage load time will increase, and after the date has passed, the delay will continue to increase further.
 
 ## Usage
 
@@ -28,4 +28,4 @@ This script is meant to be a light-hearted joke and should not be used in any wa
 
 ## License
 
-This prank script is provided under the [MIT License](LICENSE), which allows you to use, modify, and distribute the script for non-malicious purposes. Please review the [LICENSE](LICENSE) file for more details.
+This script is provided under the [MIT License](LICENSE), which allows you to use, modify, and distribute the script for non-malicious purposes. Please review the [LICENSE](LICENSE) file for more details.
